@@ -1,7 +1,7 @@
 # ARRAYS
 An array is a contiguous block of memory that can store elements of one type.
 An array is a linear data structure.
-#Characteristics of arrays
+# Characteristics of arrays
 1.Homogeneous elements
 2.Fixed size
 3.Zero base indexing
