@@ -1,4 +1,4 @@
-#ARRAYS
+# ARRAYS
 An array is a contiguous block of memory that can store elements of one type.
 An array is a linear data structure.
 #Characteristics of arrays
@@ -6,14 +6,14 @@ An array is a linear data structure.
 2.Fixed size
 3.Zero base indexing
 
-#Advantages
+# Advantages
 1.Random access
 2.Efficient memoy usage
 
-#Disadvantage
+# Disadvantage
 1.Fixed size
 
-#Searching algorithms in arrays
+# Searching algorithms in arrays
 1.Linear search-a simple algorithm used to find a specific value in an array
 It begins at the first element in the array and checks if it matches the target value.If not it then checks all the other elements one by one sequentially
 2.Binary search-used to find a specific value in a sorted array.
@@ -23,7 +23,7 @@ We check the value at the middle index if it matches the target we return mid if
 Repeat this process either Iteratively or recursively
 
 
-#Sorting algorithms in Arrays
+# Sorting algorithms in Arrays
 Arrays have various sorting algorithms which are used depending on the data size.
 1.Bubble sort
 Difficulty-Easy
